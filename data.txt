@@ -1,0 +1,13 @@
+{
+    "1234567890": {
+        "1234567890": {
+            "username": "1234567890",
+            "name": "FRANK MWELWA",
+            "phone_number": "+260773108250\n",
+            "deposit_amount": "9000",
+            "account_number": "2410434",
+            "password": "JDJiJDEyJEcxRXFtb2t1aHdFMVdPU2gxRnRYQWUuV3JyTlJFSGcxN3RHMkJwNHQ2T3RjL3ROdndhYVFp"
+        },
+        "deposit_amount": 12200.0
+    }
+}
