@@ -7,9 +7,9 @@ import csv
 from transact import transaction
 
 # Fetch Twilio credentials from environment variables or set them here directly
-account_sid = 'AC90f633d1e96fca76e43b1e52c4ab3728'
-auth_token = 'bb37f6065bcfe28d7844953c2c17eef3'
-verify_sid = 'VAfdf97b832dc61e8f90242ee0b991a581'
+account_sid = Add the credentials from your Twilio account
+auth_token = Add the credentials from your Twilio account
+verify_sid = Add the credentials from your Twilio account
 
 otp_entry = None
 otp_trials = 0
